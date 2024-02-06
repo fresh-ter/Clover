@@ -1,0 +1,3 @@
+[submodule "Pelcod.git"]
+	path = Pelcod
+	url = https://github.com/fresh-ter/Pelcod.git
